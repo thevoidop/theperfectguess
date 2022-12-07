@@ -22,8 +22,8 @@ while (True):
                  print("Please enter a valid number")
         break
     
-with open("game_hs.txt") as f:
-    record = int(f.read())
-if (gusses < record):
-    with open("game_hs.txt", "w") as f:
-        f.write(str(gusses)) 
+#with open("game_hs.txt") as f:
+#    record = int(f.read())
+#if (gusses < record):
+#    with open("game_hs.txt", "w") as f:
+#        f.write(str(gusses)) 
