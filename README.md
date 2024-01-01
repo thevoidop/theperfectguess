@@ -7,7 +7,7 @@ This Python script implements a simple random number guessing game. The computer
   1. Run the script:
   
      ```bash
-     python random_number_guessing.py
+     python the_guess_game.py
      ```
   2. The computer will choose a random number between 1 and 100.
   3. You will be prompted to guess the number.
